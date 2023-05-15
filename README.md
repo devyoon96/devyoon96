@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gns0228)](https://solved.ac/gns0228/)
+
 <!--
 **devyoon96/devyoon96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
